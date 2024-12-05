@@ -1,8 +1,11 @@
 # 🤖 AI-Powered PDF Chat Assistant
 
 An intelligent chatbot that enables natural conversations about PDF documents using advanced RAG (Retrieval Augmented Generation) and agent-based architecture.
-![Screenshot 2024-12-04 183213](https://github.com/user-attachments/assets/d9f4bc42-56ca-4b94-9616-ad9c2fba0719)
+
 ![Screenshot 2024-12-04 035341](https://github.com/user-attachments/assets/0a70f6b2-e788-424b-bde3-86bca58dfbfe)
+
+![Screenshot 2024-12-04 183213](https://github.com/user-attachments/assets/d9f4bc42-56ca-4b94-9616-ad9c2fba0719)
+
 
 ## 🎯 Deliverables
 
