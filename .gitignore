@@ -1,0 +1,24 @@
+echo "# Python
+venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+*.dll
+*.lib
+*.pyd
+*.so
+
+# Node
+node_modules/
+build/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store" > .gitignore
